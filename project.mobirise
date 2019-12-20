@@ -855,11 +855,11 @@
           "_name": "content2",
           "_customHTML": "<section class=\"content2 mbr-section article\" plugins=\"amp-main\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"checkbox\" title=\"Show Title\" name=\"showTitle\" checked>\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"mbr-row mbr-justify-content-center\">\n            <div class=\"mbr-col-sm-12 mbr-col-md-10 mbr-col-lg-8\">\n                <h3 class=\"mbr-fonts-style mbr-section-title mbr-light\" mbr-if=\"showTitle\" mbr-theme-style=\"display-2\" data-app-selector=\".mbr-section-title\">\n                    About creator</h3>\n                <p class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article>I am the creator of the game called -<b> I am in heaven.\n</b><br>Also, I`m the creator of <b>Lawyer by trade game\n</b><br>\n<br>This website provides links to my games that are <b>password protected!</b><br>You can buy my games on <b><a href=\"http://adultjunkie.itch.io\" target=\"_blank\">itch.io</a></b> or you can find passwords for unlocking<br>on my<a href=\"http://patreon.com/adultjunkie\" target=\"_blank\"> </a><b><a href=\"http://patreon.com/adultjunkie\" target=\"_blank\">Patreon</a>&nbsp;</b>page&nbsp;by becoming my supporter!<br><br><br><i>Important!For questions and comments use contact form on this website or Discord server. Do not post comments about Episode game on Patreon website!\n</i><br><br>Because of the strict policy of Patreon.com you will not find reference of the I am in heaven game there because of the explicit content...<br><br>adultjunkie.</p>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "rL9fR1m0X9",
+          "_anchor": "content2-8",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "content2-8"
+          "_params": {}
         }
       ]
     }
